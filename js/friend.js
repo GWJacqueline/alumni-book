@@ -1,4 +1,3 @@
-//generator实现
 const data = [
     {
         name: 'Lucy',
